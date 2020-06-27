@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "lost_32",
+        "MONGO_PASSWORD": "youarearealshit11",
+        "MONGO_DEFAULT_DATABASE": "shop"
+    }
+}

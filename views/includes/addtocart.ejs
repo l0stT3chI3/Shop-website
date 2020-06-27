@@ -1,0 +1,6 @@
+<form action="/cart" method="post">
+    <input type="hidden" name="_csrf" value="<%= csrfToken %>">
+    <button class="btn">Add to cart</button>
+    <input type="hidden" name="inputID" value="<%= product._id %>">
+    
+</form>
